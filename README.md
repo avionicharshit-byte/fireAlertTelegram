@@ -63,7 +63,8 @@ Consider Security Measures: Implement appropriate security measures, such as enc
 Deploy the System: Once the system is tested and functioning properly, deploy it in the desired location, such as a building or a designated fire-prone area, to provide fire alert notifications in case of fire events.
 Remember to follow appropriate safety guidelines and regulations when dealing with fire detection systems and always prioritize the safety of individuals and properties.
 
-Precautions - # Upload the code to esp32 in isolation i.e. nothing should be connected to esp32 during uplaoding the code 
-             # If you are using esp32 wroom 32 module then you have to press boot button while uploading the code.
-             # Try to use the 4g wifi for connecting esp32 to wifi , In some cases 5G shows some issues while connecting to esp32.
-             # Try to give the power to esp32 through 3.3 volt not through Vin or through 5 volt, it can damage the esp32.  
+Precautions 
+- Upload the code to esp32 in isolation i.e. nothing should be connected to esp32 while uplaoding the code 
+- If you are using esp32 wroom 32 module then you have to press boot button while uploading the code.
+- Try to use the 4g wifi for connecting esp32 to wifi , In some cases 5G shows some issues while connecting to esp32.
+- Try to give the power to esp32 through 3.3 volt not through Vin or through 5 volt, it can damage the esp32.  
