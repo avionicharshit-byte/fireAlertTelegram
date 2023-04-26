@@ -56,6 +56,9 @@ Step 5: Telegram Bot Message Handling
 Configure Message Handlers: Configure the Telegram bot to handle incoming fire alert messages. This may involve setting up appropriate message handlers in the bot's code to receive and process fire alert messages from the ESP32.
 Take Actions: Once the fire alert message is received by the Telegram bot, it can take appropriate actions, such as sending notifications to designated recipients, storing the information in a database, or triggering alarms. You can customize the actions based on your specific requirements.
 
+![image](https://user-images.githubusercontent.com/78672319/234661543-161a28db-2381-4de6-8d95-1fd80fd8e3af.png)
+
+
 Step 6: Testing and Deployment
 
 Thoroughly test the system to ensure that it properly detects fire events and sends alert messages to the designated recipients.
@@ -63,6 +66,8 @@ Consider Security Measures: Implement appropriate security measures, such as enc
 
 Deploy the System: Once the system is tested and functioning properly, deploy it in the desired location, such as a building or a designated fire-prone area, to provide fire alert notifications in case of fire events.
 Remember to follow appropriate safety guidelines and regulations when dealing with fire detection systems and always prioritize the safety of individuals and properties.
+![image](https://user-images.githubusercontent.com/78672319/234661783-a5e25aad-8f3c-4a28-967f-0048e5f4b2f3.png)
+
 
 Precautions 
 - Upload the code to esp32 in isolation i.e. nothing should be connected to esp32 while uplaoding the code 
