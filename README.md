@@ -7,7 +7,8 @@ Fire detection sensor(s): Depending on the desired method of fire detection, you
 Power source: You'll need a reliable power source to power the ESP32 and other components.
 
 Schematics:
-![image](https://user-images.githubusercontent.com/78672319/234657614-f4ea28cd-7eb9-4a25-9f7c-1daea030d925.png)
+![image](https://user-images.githubusercontent.com/78672319/234660789-b2844457-0807-4e7a-9f72-2f2b0678b974.png)
+
 
 
 Step 2: Set up Software Environment
