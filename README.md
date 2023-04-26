@@ -75,7 +75,7 @@ Working Video - https://drive.google.com/drive/folders/1vStUAS4gbIvyK3DJv2pXYCxE
 
 
 Precautions 
-- Upload the code to esp32 in isolation i.e. nothing should be connected to esp32 while uplaoding the code 
+- Upload the code to esp32 in isolation i.e. nothing should be connected to esp32 while uploading the code 
 - If you are using esp32 wroom 32 module then you have to press boot button while uploading the code.
 - Try to use the 4g wifi for connecting esp32 to wifi , In some cases 5G shows some issues while connecting to esp32.
 - Try to give the power to esp32 through 3.3 volt not through Vin or through 5 volt, it can damage the esp32.  
