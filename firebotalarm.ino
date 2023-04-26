@@ -14,7 +14,7 @@ const char* password = "Png@7870";
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
 
-const int flamesensor = 15; 
+const int flamesensor = 27; 
 bool flameDetected = false;
 
 void IRAM_ATTR detectsFlame() {
