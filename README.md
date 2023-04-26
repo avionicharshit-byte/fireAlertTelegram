@@ -69,6 +69,11 @@ Remember to follow appropriate safety guidelines and regulations when dealing wi
 ![image](https://user-images.githubusercontent.com/78672319/234661783-a5e25aad-8f3c-4a28-967f-0048e5f4b2f3.png)
 
 
+
+
+Working Video - https://drive.google.com/drive/folders/1vStUAS4gbIvyK3DJv2pXYCxEpqNkHaOY?usp=share_link
+
+
 Precautions 
 - Upload the code to esp32 in isolation i.e. nothing should be connected to esp32 while uplaoding the code 
 - If you are using esp32 wroom 32 module then you have to press boot button while uploading the code.
